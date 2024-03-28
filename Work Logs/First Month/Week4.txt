@@ -1,0 +1,32 @@
+Work Log:
+
+Day 1 - 5:
+
+Project Name: Effect of Cyclic Stick and Rudder Pedal
+Description: A simulated VR application on how to fly a helicopter with cyclic stick and rudder pedal.
+
+Scenes:
+1. Disclaimer Scene.
+2. Introduction Scene.
+3. MainScene.
+
+Functionalities:
+1. Setting the position of the helicopter in the MainScene.
+2. Fetching the values of cyclic stick and rudder pedal.
+3. Creating an algorithm for the rotation of the helicopter when using cyclic stick.
+4. Using rudder pedal for yaw movement of the helicopter.
+
+Work of Math:
+
+if x == 1 and y == 0 : Helicopter moves sideways towards the Right.
+if x == -1 and y == 0 : Helicopter moves sideways towards the left.
+
+if x >= 0.8 and x <= 1 and y > 0: Helicopter will move forward and turns more towards the right side.
+if x >= 0.8 and x <= 1 and y < 0: Helicopter will move backward and turns more towards the right side.
+if x >= -1 and x <= -0.8 and y < 0: Helicopter will move backward and turns more towards the left side.
+if x >= -1 and x <= -0.8 and y > 0: Helicopter will move backward and turns more towards the right side.
+
+if y >= 0.8 and y <= 1 and x > 0: Helicopter will move forward and turns slightly towards the right side.
+if y >= 0.8 and y <= 1 and x < 0: Helicopter will move backward and turns slightly towards the right side.
+if y >= -1 and y <= -0.8 and x < 0: Helicopter will move backward and turns slightly towards the left side.
+if y >= -1 and y <= -0.8 and x > 0: Helicopter will move backward and turns slightly towards the right side.

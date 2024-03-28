@@ -1,0 +1,28 @@
+Work Log:
+
+Day 1:
+
+Project Name: Flights Graphic User Interface Applications with Unity
+Description: Created a game application to examine the flight models in 3D.
+
+Functionalities:
+1. Highlighting the flight models
+2. Rotation on all the axes for the model.
+
+Day 2 - Day 4:
+
+Project Name: Airplane Runway
+Description: An Animation video for the Airplane Runway.
+
+Functionalities:
+1. Created 3 Cameras to view the animation video- Cockpit view, Third Person View, First Person View
+2. Animation video has 6 phases:
+	Moving forward with wheels and gradually increasing the speed --> Takeoff --> Balancing the altitude --> Turning Left
+	and Move straight ahead --> Turning Right and Move straight ahead -> Landing and parking the aircraft.
+
+Day 5:
+
+Project Name: Adding Colliders for flight models
+Description: Using Blender to view the flight models and add colliders
+
+We need colliders so that the colliders can interact in the virtual environment

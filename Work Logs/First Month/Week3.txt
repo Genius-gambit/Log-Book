@@ -1,0 +1,26 @@
+Work Log:
+
+Day 1 - 2:
+
+Project Name: Effect of Cyclic Stick and Rudder Pedal
+Description: A simulated VR application on how to fly a helicopter with cyclic stick and rudder pedal.
+
+Scenes:
+1. Disclaimer Scene.
+
+Functionalities:
+1. Creating images in photoshop and importing the images in Unity for Disclaimer Scene.
+2. Transition animation for every change of images.
+
+Day 3 - 5:
+
+Project Name: Effect of Cyclic Stick and Rudder Pedal
+Description: A simulated VR application on how to fly a helicopter with cyclic stick and rudder pedal.
+
+Scenes:
+1. Disclaimer Scene.
+2. Introduction Scene.
+
+Functionalities:
+1. Creating images in photoshop and importing the images in Unity for Introduction Scene.
+2. Transition animation for every change of images.

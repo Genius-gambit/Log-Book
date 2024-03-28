@@ -1,0 +1,21 @@
+Work Log:
+
+Day 1 - 3:
+
+Project Name: Engine Inspection
+Description: A simulated application on how to fix/setup airplane engines.
+
+Functionalities:
+1. Highlighting which part of the engine to work on.
+2. After selecting an activity, It creates a pathway for the user to lead him for every procedure.
+3. Animation for starting the engine fans, tools interaction animations.
+
+Day 4 - 5:
+
+Project Name: Rotation User Interface of the aircraft
+Description: A game application to make field of view on any point of the axis.
+
+Functionalities:
+1. Using c# scripts to work with change in field of view
+2. LookAt() function helps to redirect airplane's focus to the game objects which it was referred.
+3. Using Lerp() function from class Maths which can change the values from one to another with any values from 0 to 1.
